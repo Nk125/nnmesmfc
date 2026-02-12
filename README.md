@@ -1,2 +1,1 @@
-# nnmesmfc
-Stoat TUI chat client, made in Rust.
+#### **n**ekes**n**eo**m**eta**e**x**s**uper**m**ega**f**abuloso**c**lient (nnmesmfc)

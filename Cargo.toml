@@ -1,0 +1,11 @@
+[workspace]
+resolver = "3"
+members = []
+default-members = []
+
+[workspace.package]
+version = "0.1.0"
+edition = "2024"
+description = "irc-style client for stoat, made in rust."
+repository = "https://github.com/nk125/nnmesmfc"
+license = "MIT"
