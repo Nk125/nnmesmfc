@@ -6,6 +6,6 @@ default-members = []
 [workspace.package]
 version = "0.1.0"
 edition = "2024"
-description = "irc-style client for stoat, made in rust."
+description = "IRC-style client for Stoat, made in Rust."
 repository = "https://github.com/nk125/nnmesmfc"
 license = "MIT"
